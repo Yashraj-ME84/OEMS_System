@@ -1,4 +1,4 @@
-# GoQuant Order Execution and Management System (OEMS)
+# Order Execution and Management System (OEMS)
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-GoQuant OEMS is a high-performance C++17 application designed for interacting with the Deribit cryptocurrency trading platform. This application supports various trading functionalities, including placing, modifying, and canceling orders, as well as managing open orders, positions, and retrieving order books. It includes a WebSocket server to subscribe clients to specific symbols and continuously stream order book updates.
+OEMS is a high-performance C++17 application designed for interacting with the Deribit cryptocurrency trading platform. This application supports various trading functionalities, including placing, modifying, and canceling orders, as well as managing open orders, positions, and retrieving order books. It includes a WebSocket server to subscribe clients to specific symbols and continuously stream order book updates.
 
 ## Features
 
