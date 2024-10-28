@@ -6,7 +6,6 @@
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Dependencies](#dependencies)
-- [Installation](#installation)
 
 ## Overview
 
@@ -35,10 +34,3 @@ OEMS is a high-performance C++17 application designed for interacting with the D
 - [cURL](https://curl.se/): For HTTP requests
 - [OpenSSL](https://www.openssl.org/): For handling secure connections
 - [JsonCpp](https://github.com/open-source-parsers/jsoncpp): For JSON parsing
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/GoQuantOEMS.git
-   cd GoQuantOEMS
